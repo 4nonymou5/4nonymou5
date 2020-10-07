@@ -1,6 +1,6 @@
-### Hi there, I'm Naveen [Neevan][neevan.me] 👋
+### Hi there, I'm Naveen  👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://neevan.com)
+[![Website](https://img.shields.io/website?label=neevan.me&style=for-the-badge&url=https%3A%2F%2Fneevan.me)](https://neevan.com)
 
 
 ## I'm an Engineer, Traveller, Researcher, and Husband!!
@@ -32,6 +32,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
+
 ---
 
 
@@ -39,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Naveen's GitHub Stats" src="https://github-readme-stats.4nonymou5.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
