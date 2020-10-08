@@ -7,7 +7,7 @@
 
 - 🔭 I tried business and failed badly
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate on projects around edge processing, Federated Learning, Differential Privacy, Graph theory
 - 🥅 2020 Goals: Contribute more to Open Source projects and keep hoping good things will happen
 - ⚡ Fun fact: I love to backpack and just headout to random places
 
