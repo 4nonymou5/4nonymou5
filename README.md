@@ -12,10 +12,7 @@
 - ⚡ Fun fact: I love to backpack and just headout to random places
 
 
-### Connect with me:
 
-[<img align="left" alt="neevan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/4nonymou5/]
-[<img align="left" alt="4nonymou5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/4nonymou5/]
 
 
 <br />
