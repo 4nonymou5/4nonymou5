@@ -25,11 +25,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Profiling TensorFlow Lite models for Android](https://heartbeat.fritz.ai/profiling-tensorflow-lite-models-for-android-a2bc53199682?source=rss-ae2613422ae4------2)
+- [The what and what not of running deep learning inference on mobile](https://towardsdatascience.com/the-what-and-what-not-of-running-deep-learning-inference-on-mobile-81aa394ad27d?source=rss-ae2613422ae4------2)
+- [Rules of thumb for Deep Learning](https://medium.com/hackernoon/rules-of-thumb-for-deep-learning-5a3b6d4b0138?source=rss-ae2613422ae4------2)
 <!-- BLOG-POST-LIST:END -->
 
 
