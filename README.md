@@ -1,6 +1,6 @@
 ### Hi there, I'm Naveen  👋
 
-[![Website](https://img.shields.io/website?label=neevan.me&style=for-the-badge&url=https%3A%2F%2Fneevan.me)](https://neevan.com)
+[![Website](https://img.shields.io/website?label=neevan.me&style=for-the-badge&url=https%3A%2F%2Fneevan.me)](https://neevan.me)
 
 
 ## I'm an Engineer, Traveller, Researcher, and Husband!!
