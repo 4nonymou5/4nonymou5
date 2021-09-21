@@ -23,7 +23,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Data Science for edge deployment is different!](https://medium.com/ai-ml-cv-in-enriching-digital-maps-navigation/data-science-for-edge-deployment-is-different-b73cb8035f71?source=rss-ae2613422ae4------2)
-- [Profiling TensorFlow Lite models for Android](https://heartbeat.fritz.ai/profiling-tensorflow-lite-models-for-android-a2bc53199682?source=rss-ae2613422ae4------2)
+- [Profiling TensorFlow Lite models for Android](https://heartbeat.comet.ml/profiling-tensorflow-lite-models-for-android-a2bc53199682?source=rss-ae2613422ae4------2)
 - [The what and what not of running deep learning inference on mobile](https://towardsdatascience.com/the-what-and-what-not-of-running-deep-learning-inference-on-mobile-81aa394ad27d?source=rss-ae2613422ae4------2)
 - [Rules of thumb for Deep Learning](https://medium.com/hackernoon/rules-of-thumb-for-deep-learning-5a3b6d4b0138?source=rss-ae2613422ae4------2)
 <!-- BLOG-POST-LIST:END -->
