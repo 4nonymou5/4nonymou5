@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=neevan.me&style=for-the-badge&url=https%3A%2F%2Fneevan.me)](https://neevan.me)
 
 
-## I'm an Engineer, Traveller, Researcher, and Husband!!
+## I'm an Engineer, Traveller, Researcher!!
 
 - 🔭 I tried business and failed badly
 - 🌱 I’m currently learning everything 🤣
